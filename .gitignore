@@ -12,3 +12,6 @@ __pycache__/
 database/
 data/resumes/
 data/job_descriptions/
+
+# Environment variables
+.env
