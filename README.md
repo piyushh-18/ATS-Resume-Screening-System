@@ -52,5 +52,7 @@ PDF/DOCX parsing can be added later.
 ## Author
 
 Piyush kumar 
+
 GitHub: https://github.com/piyushh-18
+
 LinkedIn: https://www.linkedin.com/in/piyush-kumar-0533b139b/
